@@ -1,1 +1,1 @@
-# Music-Player
+# CodeClause_Online_Musing_Streaming_Application
